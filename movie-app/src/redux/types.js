@@ -1,0 +1,7 @@
+export const FETCH_MOVIES = 'FETCH_MOVIES';
+export const FETCH_MOVIES_ERROR = 'FETCH_MOVIES_ERROR';
+
+export const FETCH_SESSIONS = 'FETCH_SESSIONS';
+export const FETCH_SESSIONS_ERROR = 'FETCH_SESSIONS_ERROR';
+
+export const SET_USER = 'SET_USER'

@@ -1,0 +1,36 @@
+.movies-details-container {
+    margin: 80px 50px 40px;
+    color: rgba(255, 255, 255, 0.932);
+    display: flex;
+}
+
+.text {
+    margin: 20px 30px;
+}
+
+.title {
+    margin-bottom: 20px;
+}
+
+.text p {
+    margin: 10px 0;
+}
+
+.poster img {
+    width: 400px;
+    margin: 0;
+}
+
+.text iframe {
+    margin: 10px 0;
+}
+
+.buy-tickets {
+    margin: 0 50px;
+    padding: 10px;
+    width: 150px;
+}
+
+.text h3 {
+    margin-top: 30px;
+}
